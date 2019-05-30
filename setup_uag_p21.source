@@ -1,0 +1,7 @@
+cd ~/source_code/product/branch/uagp21/fpath/6wind/6WINDGate-3.35.0-SDS-INTEL64-RHEL6.2-DPDK-v1.3.0-HA__vmxnet3-nitrox-redhat/COMPONENTS/vendor/cavium
+pushd ~/source_code/product/branch/uagp21/fpath/6wind/6WINDGate-3.35.0-SDS-INTEL64-RHEL6.2-DPDK-v1.3.0-HA__vmxnet3-nitrox-redhat/COMPONENTS/np/mcore
+pushd /home/freezing.lu/source_code/product/branch/uagp21/fpath/fplib/rtp
+pushd  ~/source_code/product/branch/uagp21/fpath/6wind/6WINDGate-3.35.0-SDS-INTEL64-RHEL6.2-DPDK-v1.3.0-HA__vmxnet3-nitrox-redhat
+pushd  ~/source_code/product/branch/uagp21/fpath
+pushd /home/freezing.lu/source_code/product/branch/uagp21/fpath/fplib/security
+pushd /home/freezing.lu/source_code/product/branch/uagp21/mmx

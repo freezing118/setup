@@ -1,0 +1,4 @@
+cd /home/freezing.lu/source_code/product/branch/ims60/mmx
+pushd ~/source_code/product/branch/ims60/mmx/switch/rmMgr/kmod/ipvs
+pushd  ~/source_code/product/branch/ims60/mmx/switch/rmMgr/src
+pushd ~/source_code/product/branch/ims60/mmx/switch/rmMgr/test

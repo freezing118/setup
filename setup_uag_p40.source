@@ -1,0 +1,9 @@
+cd /home/freezing.lu/source_code/product/branch/uagp40/data
+pushd ~/source_code/product/branch/uagp40/data/security/fastpath/dpdk
+pushd ~/source_code/product/branch/uagp40/data/fastpath/dpdk/6wind/6WINDGate-3.35.0-SDS-INTEL64-RHEL6.2-DPDK-v1.3.0-HA__vmxnet3-nitrox-redhat
+pushd /home/freezing.lu/source_code/product/branch/uagp40/data/fastpath/dpdk/6wind/mavenir
+pushd /home/freezing.lu/source_code/product/branch/uagp40/data/fastpath/dpdk/6wind/6WINDGate-3.35.0-SDS-INTEL64-RHEL6.2-DPDK-v1.3.0-HA__vmxnet3-nitrox-redhat/COMPONENTS/np/mcore
+pushd /home/freezing.lu/source_code/product/branch/uagp40/data/fastpath/dpdk/6wind/6WINDGate-3.35.0-SDS-INTEL64-RHEL6.2-DPDK-v1.3.0-HA__vmxnet3-nitrox-redhat/COMPONENTS/vendor/intel/librte_crypto_aesni
+pushd /home/freezing.lu/source_code/product/branch/uagp40/data/fastpath/dpdk/6wind/6WINDGate-3.35.0-SDS-INTEL64-RHEL6.2-DPDK-v1.3.0-HA__vmxnet3-nitrox-redhat/COMPONENTS/vendor/cavium
+pushd /home/freezing.lu/source_code/product/branch/uagp40/data/fastpath/dpdk/6wind/6WINDGate-3.35.0-SDS-INTEL64-RHEL6.2-DPDK-v1.3.0-HA__vmxnet3-nitrox-redhat/COMPONENTS/vendor/intel/librte_crypto_aesni
+pushd /home/freezing.lu/source_code/product/branch/uagp40/data/security

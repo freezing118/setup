@@ -1,0 +1,13 @@
+cd ~/source_code/product/branch/uag22/data/fastpath/octeon/6wind/6WINDGate-3.37.0-SDS-OCTEON2-RSYS-7240-1.0.0.1-OCTEON-SDK-2.1-HA__1cp-xfp-ha/COMPONENTS/np/mcore
+pushd ~/source_code/product/branch/uag22/vendor/cavium/OCTEON-SDK210/bootloader/u-boot
+pushd ~/source_code/product/branch/uag22/vendor/cavium/OCTEON-SDK210/linux/kernel_2.6/linux
+pushd ~/source_code/product/branch/uag22/data/media/fastpath/octeon/rtp
+pushd ~/source_code/product/branch/uag22/data/fastpath/octeon
+pushd ~/source_code/product/branch/uag22/data/fastpath/octeon/6wind/mavenir
+pushd ~/source_code/product/branch/uag22/data/signal/dm
+pushd ~/source_code/product/branch/uag22/data/fastpath/octeon/6wind/6WINDGate-3.37.0-SDS-OCTEON2-RSYS-7240-1.0.0.1-OCTEON-SDK-2.1-HA__1cp-xfp-ha/linux
+pushd ~/source_code/product/branch/uag22/vendor/cavium/OCTEON-SDK210/executive
+pushd ~/source_code/product/branch/uag22/vendor/cavium/OCTEON-SDK210/target
+pushd ~/source_code/product/branch/uag22/mmx/switch/dm
+pushd ~/source_code/product/branch/uag22/data/fastpath/octeon/6wind/6WINDGate-3.37.0-SDS-OCTEON2-RSYS-7240-1.0.0.1-OCTEON-SDK-2.1-HA__1cp-xfp-ha
+pushd ~/source_code/product/branch/uag22/mmx
